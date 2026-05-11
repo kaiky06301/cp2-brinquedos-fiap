@@ -1,0 +1,18 @@
+FIAP - Faculdade de Informática e Administração Paulista
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas (TDS)
+Disciplina: Programação Spring Boot com Persistência
+Professor: Dr. Marcel Stefan Wagner
+Checkpoint 2
+
+=== INTEGRANTES DO GRUPO ===
+
+1. Erick Bernardes Bradaschia      - RM: 565733
+2. Gabriel Santos Claudino         - RM: 564054
+3. Kaiky de Oliveira Silva         - RM: 566067
+4. Lucas Fortes de Lima            - RM: 559523
+5. Jonathan Moreira Gomes          - RM: 565060
+
+=== LINK DO GITHUB ===
+https://github.com/SEU_USUARIO/cp2-brinquedos-fiap
+
+(Substitua "SEU_USUARIO" pelo seu usuário real do GitHub antes da entrega)
